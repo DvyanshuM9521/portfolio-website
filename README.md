@@ -8,9 +8,6 @@ Portfolio: https://portfolio-dvyanshu9521.vercel.app
 
 ## Featured Projects
 
-### AI Operations Center
-
-Enterprise monitoring platform featuring AI-powered incident analysis, operational intelligence, KPI dashboards, and forecasting capabilities.
 
 ### Self-Healing Smart Microgrid
 
